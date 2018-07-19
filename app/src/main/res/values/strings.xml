@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicMathsFormulaDone</string>
+    <string name="nm">Name</string>
+    <string name="fr">Formula</string>
+    <string name="formula">formula</string>
+    <string name="area">area</string>
+</resources>
